@@ -80,7 +80,7 @@ It is designed to reflect real-world industry expectations rather than purely ac
 
 ## 📎 Project Files
 - `telco_customer_churn.ipynb` – Full analysis, visualizations, and modeling workflow  
-- `WA_Fn-UseC_-Telco-Customer-Churn.csv` – Dataset (if included)
+- `WA_Fn-UseC_-Telco-Customer-Churn.csv` – Dataset 
 
 ---
 
